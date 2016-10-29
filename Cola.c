@@ -34,7 +34,6 @@ void Cola(){
 	Int_t total_minutos = total_personas_dia * prom_servicio_persona * prom_llegada_persona; // promedio del tiempo abierto del sistema
 	Int_t minuto_maximo =0; 							// máximo de minutos que se ha abierto el sistema en todos los archivos
 	
-	// probando github
 	Contador *promedio;
 	promedio = new Contador[total_minutos]; /* Lista de promedio de personas por minuto */
 

@@ -1,0 +1,12 @@
+plot "dia1.csv" using 1:3 with lines
+replot "dia2.csv" using 1:3 with lines
+replot "dia3.csv" using 1:3 with lines
+replot "dia4.csv" using 1:3 with lines
+replot "dia5.csv" using 1:3 with lines
+replot "dia6.csv" using 1:3 with lines
+replot "dia7.csv" using 1:3 with lines
+replot "dia8.csv" using 1:3 with lines
+replot "dia9.csv" using 1:3 with lines
+replot "dia10.csv" using 1:3 with lines
+replot "promedios.csv" using 1:2 with lines
+replot "promedios.csv" using 1:3 with lines
